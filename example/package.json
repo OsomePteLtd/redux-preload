@@ -1,0 +1,24 @@
+{
+  "name": "@osome/redux-preload-example",
+  "homepage": "https://OsomePteLtd.github.io/@osome/redux-preload",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@osome/redux-preload": "link:..",
+    "prop-types": "^15.6.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "5.0.7",
+    "react-scripts": "^1.1.4",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "uuid": "^3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
